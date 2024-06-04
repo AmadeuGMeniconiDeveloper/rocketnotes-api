@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "./src/server.js",
-  "repository": "git@github.com-AmadeuGMeniconiDeveloper:AmadeuGMeniconiDeveloper/server-delivery-app.git",
+  "repository": "git@github.com-AmadeuGMeniconiDeveloper:AmadeuGMeniconiDeveloper/rocketnotes-api.git",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
